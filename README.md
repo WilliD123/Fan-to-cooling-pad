@@ -1,2 +1,6 @@
 # Fan-to-cooling-pad
 Here I wanted to make a fan motor into a cooling pad with some gears and other designed stuff!
+
+https://user-cdn.hackclub-assets.com/01a007ec-268b-7331-b49d-5a305c244a5c/Screenshot%202026-08-16%20094308.png
+Here I attempted to make a cooling pad from just the motor in a desk fan, however, I broke the desk fan from an old discontinued Russell Hobbs 9 Inch, Portable Desk Fan that I got second hand, after a lot of searching I am
+litterally unable to find a replacement, seeing as I got the fan working at the start and I made exact measurements I think the models that I made would still work. Thanks for looking a my project and reviewing it!!!!!
